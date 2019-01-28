@@ -1,0 +1,4 @@
+# Bug Template
+
+- [ ] aaa
+- [ ] bbb
