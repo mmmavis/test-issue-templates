@@ -12,7 +12,7 @@ assignees: ''
 │            
 │       1. Link to original design ticket (if applicable) 
 │       2. Link to Redpen (if applicable)
-│       3. Design changes been merged into the latest Sketch file
+│       3. Design changes been merged into the master Sketch file
 │       4. Desktop and mobile mockups are included
 │       5. Assets are included
 │       6. Hover state for elements are designed
