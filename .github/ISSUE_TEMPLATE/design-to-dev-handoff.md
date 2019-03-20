@@ -18,6 +18,7 @@ Enter actual ticket description here
 **🗒  Design -> Dev Handoff Checklist**
 (Feel free to remove items that are not applicable.)
 
+- [ ] Design has been finalized
 - [ ] Link to original design ticket
 - [ ] Link to Redpen
 - [ ] Design changes been merged into the master Sketch file
