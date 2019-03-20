@@ -1,6 +1,6 @@
 ---
 name: Design to Dev Handoff
-about: description of this template
+about: Issue template that comes with a design to dev handoff checklist
 title: ''
 labels: ''
 assignees: ''
@@ -8,14 +8,20 @@ assignees: ''
 ---
 
 <!------------------------------------------------------------------------------
-│                  Design -> Dev Handoff Checklist
-│            
-│       1. Link to original design ticket (if applicable) 
-│       2. Link to Redpen (if applicable)
-│       3. Design changes been merged into the master Sketch file
-│       4. Desktop and mobile mockups are included
-│       5. Assets are included
-│       6. Hover state for elements are designed
-│       7. Other states for elements are designed (e.g., error state for form)     
-│      
+│  Make sure you go through the "Design -> Dev Handoff Checklist" below
 └------------------------------------------------------------------------------>
+
+Enter actual ticket description here
+
+---
+
+**🗒  Design -> Dev Handoff Checklist**
+(Feel free to remove items that are not applicable.)
+
+- [ ] Link to original design ticket
+- [ ] Link to Redpen
+- [ ] Design changes been merged into the master Sketch file
+- [ ] Desktop and mobile mockups are included
+- [ ] Assets are included
+- [ ] Hover state for elements are designed
+- [ ] Other states for elements are designed (e.g., error state for form)
